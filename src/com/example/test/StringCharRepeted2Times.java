@@ -11,7 +11,7 @@ public class StringCharRepeted2Times {
             BufferedReader reader=new BufferedReader(new InputStreamReader(System.in));
             System.out.println("Enter String :");
             String data=reader.readLine();
-            System.out.println("Eneter character :");
+            System.out.println("Enter character :");
             char ch=(char)System.in.read();
             int no=0;
             for(int i=0;i<data.length();i++)
