@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="json-path-4.3.0-dist">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/json-path-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/json-schema-validator-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/kotlin-extensions-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/rest-assured-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/scala-support-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/spring-mock-mvc-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/xml-path-4.3.0-dist.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

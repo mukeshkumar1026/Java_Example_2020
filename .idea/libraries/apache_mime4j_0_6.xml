@@ -37,6 +37,13 @@
       <root url="jar://F:/File_All_F/lib/selenium-java-2.53.1.jar!/" />
       <root url="jar://F:/File_All_F/lib/testng-6.9.9.jar!/" />
       <root url="jar://F:/File_All_F/lib/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/json-path-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/json-schema-validator-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/kotlin-extensions-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/rest-assured-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/scala-support-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/spring-mock-mvc-4.3.0-dist.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/Rest_API/xml-path-4.3.0-dist.zip!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

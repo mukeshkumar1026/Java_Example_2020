@@ -1,13 +1,11 @@
 package com.collection.example;
 
-import javax.sql.rowset.CachedRowSet;
-
 public class FinallyConcepts {
 
     public static void main(String[] args) {
-test1();
-test2();
-div();
+            test1();
+            test2();
+            div();
     }
         public static void test1 () {
 

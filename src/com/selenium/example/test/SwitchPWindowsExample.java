@@ -30,5 +30,6 @@ public class SwitchPWindowsExample {
             }
         }
             driver.switchTo().window(MainWindow);
+            //driver.close();
         }
     }

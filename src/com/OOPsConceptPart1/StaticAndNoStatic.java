@@ -2,7 +2,7 @@ package com.OOPsConceptPart1;
 
 public class StaticAndNoStatic {
 
-    String name="Tom";//no static method globle
+    String name="Tom";//no static method global
     static int age=25;//static method
 
     public static void main(String[] args) {

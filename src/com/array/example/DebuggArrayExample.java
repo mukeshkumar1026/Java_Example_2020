@@ -1,8 +1,6 @@
 package com.array.example;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 
 public class DebuggArrayExample {
 
@@ -24,5 +22,4 @@ public class DebuggArrayExample {
             System.out.println(set+ " occurr: " +count+ " times");
         }
     }
-
 }

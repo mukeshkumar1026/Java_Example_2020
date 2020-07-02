@@ -4,8 +4,9 @@ public class finalConcepts {
 
     public static void main(String[] args) {
 
-        final int i=10;//constant value fixed
-
+        final int i;//constant value fixed
+        i=10;
+        //i=20;
 
         System.out.println(i);
     }

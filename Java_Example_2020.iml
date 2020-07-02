@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="apache-mime4j-0.6" level="project" />
+    <orderEntry type="library" name="json-path-4.3.0-dist" level="project" />
   </component>
 </module>
